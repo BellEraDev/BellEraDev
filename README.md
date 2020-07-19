@@ -1,4 +1,4 @@
-## Hi Traveller! I'm Watcharapun, Welcome to my Github profile 👋
+# Hi Traveller! I'm Watcharapun, Welcome to my Github profile 👋
 
       🌱 I’m currently learning Python, Javascript and Computer Science. 
       ⚡ I want to be a developer who can work from everywhere in the world!
