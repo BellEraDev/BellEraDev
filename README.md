@@ -1,11 +1,11 @@
-## Hi Traveller! I'm Watcharapun. Welcome to my Github profile 👋
+## Hi Traveller! I'm Watcharapun, Welcome to my Github profile 👋
 
-🌱 I’m currently learning Python, Javascript and Computer Science.
-⚡ I want to be a developer who can work from everywhere in the world!
+      🌱 I’m currently learning Python, Javascript and Computer Science. 
+      ⚡ I want to be a developer who can work from everywhere in the world!
 
-### 💬 Want to connect? 📫
-   Email : watcharapun.w@gmail.com
-   Linkedin : https://www.linkedin.com/in/watcharapun-wattanasombut-6353831a1/
+#### 💬 Want to connect? 📫
+* Email : watcharapun.w@gmail.com
+* Linkedin : https://www.linkedin.com/in/watcharapun-wattanasombut-6353831a1/
 <!--
 **BellEraDev/BellEraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
