@@ -1,7 +1,8 @@
 # Hi Traveller! I'm Watcharapun, Welcome to my Github profile 👋
 
-      🌱 I’m currently learning Python, Javascript and Computer Science. 
-      ⚡ I want to be a developer who can work from everywhere in the world!
+      🌱 I’m currently learning Javascript, React, React-Native and Computer Science. 
+      ⚡ I want to be a Developer who can work from everywhere in the world!
+      ✨ Now I’m currently work as a Software Engineer ( Web Developer )
 
 #### 💬 Want to connect? 📫
 * Email : watcharapun.w@gmail.com
