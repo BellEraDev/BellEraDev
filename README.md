@@ -5,7 +5,7 @@
       ✨ Now I’m currently work as a Software Engineer ( Web Developer )
 
 #### 💬 Want to connect? 📫
-* Email : watcharapun.w@gmail.com
+* Email : watcharapun.dev@gmail.com
 * Linkedin : https://www.linkedin.com/in/watcharapun-wattanasombut-6353831a1/
 * Medium : https://medium.com/@watcharapun.w
 <!--
