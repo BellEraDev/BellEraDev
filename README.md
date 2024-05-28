@@ -2,7 +2,8 @@
 
       🌱 I’m currently learning Java, C# , Javascript, Typescript, React, React-Native and Computer Science. 
       ⚡ I want to be a Developer who can work from everywhere in the world!
-      ✨ Now I’m currently work as a Software Engineer ( Web Developer )
+      ✨ I have been working as a Software Engineer ( Web Developer ) for the past 2 years
+      ✨ Now I’m currently studying Diploma of IT at CBD Melbourne AUS
 
 #### 💬 Want to connect? 📫
 * Email : watcharapun.dev@gmail.com
