@@ -1,8 +1,8 @@
 # Hi Traveller! I'm Watcharapun, Welcome to my Github profile 👋
 
       🌱 I’m currently learning Java, C# , Javascript, Typescript, React, React-Native and Computer Science. 
-      ⚡ I want to be a Developer who can work from everywhere in the world!
-      ✨ I have been working as a Software Engineer ( Web Developer ) for the past 2 years
+      ⚡ I want to be myself who can work from everywhere in the world!
+      ✨ I have been working as a software engineer (web developer) from 2020 to 2023
       ✨ Now I’m currently studying Diploma of IT at CBD Melbourne AUS
 
 #### 💬 Want to connect? 📫
