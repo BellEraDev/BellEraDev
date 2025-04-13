@@ -7,7 +7,7 @@
 
 #### 💬 Want to connect? 📫
 * Email : watcharapun.dev@gmail.com
-* Linkedin : https://www.linkedin.com/in/watcharapun-wattanasombut-6353831a1/
+* Linkedin : https://www.linkedin.com/in/watcharapun-wattanasombut/
 * Medium : https://medium.com/@watcharapun.w
 <!--
 **BellEraDev/BellEraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
